@@ -1,6 +1,6 @@
-## Expression Calculator 🧮
+## Expressions Calculator 🧮
 
-### Simple, easy, dump.
+### Simple, straightforward, dump.
 
 ![Example GIF](Doc/example.gif)
 
